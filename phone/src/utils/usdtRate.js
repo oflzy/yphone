@@ -1,0 +1,1 @@
+// 当前USDT兑人民币汇率（示例：1 USDT = 7.2 RMB）\nconst usdtRate = 7.2;\nexport default usdtRate; 
